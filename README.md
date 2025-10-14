@@ -8,19 +8,19 @@ A deep learning model that detects parasitized blood cells using a modified YOLO
 - Custom Architecture: C3TR + BiFPN
 - Roboflow (Dataset annotation)
 
-##🗂 Dataset
+## 🗂 Dataset
 
 - Parasitized vs Healthy cells
 - Sourced from Roboflow public datasets
 
-##🧪 Features
+## 🧪 Features
 
 - Precision-Recall curves
 - F1-confidence graph
 - Full training logs
 - Confusion Matrix
 
-##📈 Results
+## 📈 Results
 
 - Accuracy: 96%
 - Fast detection on test samples
